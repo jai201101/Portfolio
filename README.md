@@ -4,7 +4,7 @@ I'm a recent Astronomy graduate with hands-on experience in data analytics and d
 Dear Viewer, This page contains a compilation of my academic and co-curricular projects where I have used data to solve complex problems, build models, unravel insights, create interactive dashboards, etc. This github repository demonstrates my proficency in cleaning, optimizing, analyzing and visualizing data through different tools like Python, SQL, Power BI, Excel, Fortran, etc.
 
 # Portfolio
-## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars.](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
+## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars.](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
    * **Fields**: Computational methods, Data Science, Data Analysis, Data Visualization, Data collection, Data cleaning, Advanced statistics
    * **Skills Applied:** Python (Pandas, numpy, Matplotlib, OS, TransitLeastSquares, Batman, scipy), Platosim, MESA, Bash script
@@ -35,3 +35,14 @@ Dear Viewer, This page contains a compilation of my academic and co-curricular p
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
+## ## **[1D RIEMANN SOLVER FOR EULER EQUATIONS](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
+   * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
+   * **Fields**: Numerical simulations, computational modelling, advanced calculus
+   * **Skills Applied:** Python
+   * **Main Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
+   * **Purpose** : Binary stars Coursework project
+
+# Let's Talk:
+* Mobile: +91 9552082387
+* Mail: [jaimirchandani20@gmail.com](jaimirchandani20@gmail.com)
+* [LinkedIn](www.linkedin.com/in/jaimirchandani)
