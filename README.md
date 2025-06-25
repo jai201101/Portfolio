@@ -36,11 +36,12 @@ Dear Viewer, This page contains a compilation of my academic and co-curricular p
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
 ## ## **[1D RIEMANN SOLVER FOR EULER EQUATIONS](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
-   * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
+   * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rar-
+efaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **Fields**: Numerical simulations, computational modelling, advanced calculus
-   * **Skills Applied:** Python
+   * **Skills Applied:** Python. HD modelling 
    * **Main Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
-   * **Purpose** : Binary stars Coursework project
+   * **Purpose** : Computational Mehtods for Astrophysical applications Coursework project
 
 # Let's Talk:
 * Mobile: +91 9552082387
