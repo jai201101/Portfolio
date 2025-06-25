@@ -95,4 +95,4 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 # Let's Talk:
 * Mobile: +91 9552082387
 * Mail: [jaimirchandani20@gmail.com](jaimirchandani20@gmail.com)
-* [LinkedIn](www.linkedin.com/in/jaimirchandani)
+* [LinkedIn](https://www.linkedin.com/in/jaimirchandani)
