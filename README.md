@@ -36,8 +36,7 @@ Dear Viewer, This page contains a compilation of my academic and co-curricular p
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
 ## ## **[1D RIEMANN SOLVER FOR EULER EQUATIONS](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
-   * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rar-
-efaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
+   * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **Fields**: Numerical simulations, computational modelling, advanced calculus
    * **Skills Applied:** Python. HD modelling 
    * **Main Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
