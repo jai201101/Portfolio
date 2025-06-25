@@ -1,15 +1,27 @@
 **Author: Jai Mirchandani**
 
 # Introduction
-I'm a recent Astronomy graduate with hands-on experience in data analytics and data science. I've worked on academic and real world projects using tools like Power BI, SQL, Python and Excel to provide data-driven and robust solutions tailored to complex research problems and business tasks. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. 
+I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in data analytics and data science. My projects span astrophysics research to real-world business dashboards, showcasing skills in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards. It highlights my proficiency in data cleaning, analysis, optimization, and visualization using tools such as Python, SQL, Power BI, Excel, and Fortran.
 
+## 📑 Table of Contents
+- [Portfolio](#portfolio)
+  - [Exploring PLATO’s Efficiency in Detecting Transiting Exoplanets](#exploring-platos-eﬀiciency-in-detecting-transiting-exoplanets-around-intermediate-mass-stars)
+  - [Social Media Interactive Dashboard](#social-media-interactive-dashboard)
+  - [Cyclistic Case Study](#cyclistic-case-study)
+  - [Analysis and Evolution of a Binary System](#analysis-and-evolution-of-a-binary-system-with-phoebe-and-mesa)
+  - [1D Riemann Solver for Euler Equations](#1d-riemann-solver-for-euler-equations)
+- [Resume](#resume)
+  - [Education](#education)
+  - [Experience](#experience)
+  - [Skills](#skills)
+  - [Extra Projects (Not in Portfolio)](#extra-projects-not-in-portfolio)
+)
+  - [Languages](#languages)
+- [Contact](#lets-talk)
 
-
-# Welcome to my data portfolio
-Dear Viewer, This page contains a compilation of my academic and co-curricular projects where I have used data to solve complex problems, build models, unravel insights, create interactive dashboards, etc. This github repository demonstrates my proficency in cleaning, optimizing, analyzing and visualizing data through different tools like Python, SQL, Power BI, Excel, Fortran, etc.
  
 # Portfolio
-## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars.](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
+## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
    * **Fields**: Computational methods, Data Science, Data Analysis, Data Visualization, Data collection, Data cleaning, Advanced statistics
    * **Skills Applied:** Python (Pandas, numpy, Matplotlib, OS, TransitLeastSquares, Batman, scipy), Platosim, MESA, Bash script
@@ -29,7 +41,7 @@ Dear Viewer, This page contains a compilation of my academic and co-curricular p
 
 
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
-   * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
+   * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members. 
    * **Fields**: Data Cleaning and Processing, Data Analytics, Data Visualization
    * **Skills Applied:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
    * **Main Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
@@ -40,7 +52,7 @@ Dear Viewer, This page contains a compilation of my academic and co-curricular p
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
-## ## **[1D RIEMANN SOLVER FOR EULER EQUATIONS](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
+## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
    * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **Fields**: Numerical simulations, computational modelling, advanced calculus
    * **Skills Applied:** Python. HD modelling 
