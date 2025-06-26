@@ -50,7 +50,7 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **Purpose** : Google Data Analytics Professional Certificate Capstone case study
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
-   * * **preview:**:![preview](https://github.com/jai201101/Portfolio/blob/main/images/Binary_preview.png)
+   * * **preview:**:![preview](https://github.com/jai201101/Portfolio/blob/a0525ea6420a53bb3c69df3090300013cc301f61/images/Binary_preview.png)
    * **Fields**: Data Science, Statistical Modelling, Time Series Analysis 
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
