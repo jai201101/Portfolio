@@ -3,6 +3,8 @@
 # Introduction
 I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in data analytics and data science. My projects span astrophysics research to real-world business dashboards, showcasing skills in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards. It highlights my proficiency in data cleaning, analysis, optimization, and visualization using tools such as Python, SQL, Power BI, Excel, and Fortran.
 
+
+
 ## 📑 Table of Contents
 - [Portfolio](#portfolio)
   - [Exploring PLATO’s Efficiency in Detecting Transiting Exoplanets](#exploring-platos-eﬀiciency-in-detecting-transiting-exoplanets-around-intermediate-mass-stars)
@@ -18,8 +20,11 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
   - [Languages](#languages)
 - [Contact](#lets-talk)
 
+
+
  
 # Portfolio
+
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
    * **preview:** ![preview](./images/Thesis_result_preview.png)
@@ -27,6 +32,8 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **Skills Applied:** Python (Pandas, numpy, Matplotlib, OS, TransitLeastSquares, Batman, scipy), Platosim, MESA, Bash script
    * **Thesis Manuscript:** [Jai_Mirchandani_Masters_Thesis](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
    * **Purpose** : Master Thesis project
+
+
 ## [Social Media interactive dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
    * **Description:**  This interactive report analyzes 5,600 posts across platforms like LinkedIn, TikTok, Facebook, Instagram and YouTube, providing a 360° view of:
       * Engagement trends by time, day and content type
@@ -48,6 +55,8 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **Skills Applied:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
    * **Main Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose** : Google Data Analytics Professional Certificate Capstone case study
+
+
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
    * **preview:**: ![preview](./images/Binary_preview.png)
@@ -55,6 +64,8 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
+
+
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
    * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **preview:** ![preview](./images/comp_preview.png)
@@ -63,12 +74,15 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **Main Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
    * **Purpose** : Computational Mehtods for Astrophysical applications Coursework project
 
+
 # Resume
+
 ## Education
 * **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium | Cum Laude (68%)| Sept 2022 –  Feb 2025
 * **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India | CGPA: 8.29 | Jun 2019 – May 2022 
 * **Relevant Coursework:** Data Analysis in Astrophysics, Project Management, Innovative Entrepreneurship, Computational Physics, Digital Image Processing, Discrete Mathematics, Advanced Calculus.
 * **Certifications:** Google Data Analytics Professional Certificate [(Credential)](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0)
+
 
 ## Experience
 * **Master Thesis: Evaluating PLATO Telescope Efficiency**, KU Leuven, Belgium | Sept 2023 – Feb 2025
@@ -79,6 +93,7 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 * **Bachelor Thesis: Dark Matter Analysis Using Rotation Curve**, St. Xavier’s College, India | Nov 2021 – Apr 2022
   * Queried and cleaned over 300,000 data points from the GAIA DR2 database using SQL to test hypotheses regarding the distribution of dark matter.
 
+
 ## Skills
 *	**Programming Languages:** Python (NumPy, Pandas, Matplotlib, TensorFlow, PyMC), R, Fortran
 *	**Data Analysis and Visualization Tools:** SQL (MySQL, BigQuery), Excel, Power BI (DAX), Tableau
@@ -86,15 +101,19 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 *	**Other Tools:** Git (Version Control), MS Project (Project Management), LaTeX (Documentation), Linux (OS)
 *	**Soft Skills:** Leadership, Analytical Thinking, Collaboration, Problem Solving, Project Management
 
+
 ## Extra Projects (Not in Portfolio)
 * **Atomic Oxygen as a Space Weather Risk:** Built an empirical model in Python that successfully predicted oxygen fluence, enabling proactive risk estimation and informing mitigation strategies for future missions. 
 * **Light Curve Analysis of Variable Stars:** Conducted time series analysis of 20 stars using TESS data and Python with a strong focus on pattern recognition and visualization
 
+
 ## Languages
 * **English** (Proficient), **Hindi** (Native), **Marathi** (Proficient), **Sindhi** (Intermediate)
   
+
 ## Hobbies and Interests
 *  Stargazing, Cricket, Taekwondo, Trekking, Financial Markets
+
 
 # Let's Talk:
 * Mobile: +91 9552082387
