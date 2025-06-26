@@ -15,7 +15,6 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
   - [Experience](#experience)
   - [Skills](#skills)
   - [Extra Projects (Not in Portfolio)](#extra-projects-not-in-portfolio)
-)
   - [Languages](#languages)
 - [Contact](#lets-talk)
 
