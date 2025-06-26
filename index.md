@@ -35,7 +35,7 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
       * Hashtag performance breakdown
       * Fully filterable by month, region and platform
    * * **preview:**![preview](./images/social_media_preview.png) 
-   * **Fields**: Business Intelligence, Data Visualization, interactive dashboards
+   * **Fields:** Business Intelligence, Data Visualization, interactive dashboards
    * **Skills Applied:** MS Power BI, Power Query, Drill down visuals
    * **Main Pbix dashboard:** [Social_Media_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly Challenge via LinkedIn
@@ -43,21 +43,21 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
    * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
-   * * **preview:** ![preview](./images/cyclistic_preview.png)
+   * **preview:** ![preview](./images/cyclistic_preview.png)
    * **Fields**: Data Cleaning and Processing, Data Analytics, Data Visualization
    * **Skills Applied:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
    * **Main Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose** : Google Data Analytics Professional Certificate Capstone case study
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
-   * * **preview:**:![preview](./images/Binary_preview.png)
+   * **preview:**: ![preview](./images/Binary_preview.png)
    * **Fields**: Data Science, Statistical Modelling, Time Series Analysis 
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
    * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
-   * * **preview:** ![preview](./images/comp_preview.png)
+   * **preview:** ![preview](./images/comp_preview.png)
    * **Fields**: Numerical simulations, computational modelling, advanced calculus
    * **Skills Applied:** Python. HD modelling 
    * **Main Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
