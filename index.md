@@ -1,4 +1,4 @@
-**Author: Jai Mirchandani**
+
 
 # Introduction
 I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in data analytics and data science. My projects span astrophysics research to real-world business dashboards, showcasing skills in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards. It highlights my proficiency in data cleaning, analysis, optimization, and visualization using tools such as Python, SQL, Power BI, Excel, and Fortran.
@@ -90,19 +90,19 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 # Resume
 
 ## Education
-* **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium | Cum Laude (68%)| Sept 2022 –  Feb 2025
-* **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India | CGPA: 8.29 | Jun 2019 – May 2022 
+* **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium , **Cum Laude** (68%), Sept 2022 –  Feb 2025
+* **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India , **CGPA:** 8.29 , Jun 2019 – May 2022 
 * **Relevant Coursework:** Data Analysis in Astrophysics, Project Management, Innovative Entrepreneurship, Computational Physics, Digital Image Processing, Discrete Mathematics, Advanced Calculus.
 * **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0), [Google Business Intelligence Professional Certificiate](https://coursera.org/share/cb358ed95f92399c588925a53acc7428)
 
 
 ## Experience
-* **Master Thesis: Evaluating PLATO Telescope Efficiency**, KU Leuven, Belgium | Sept 2023 – Feb 2025
+* **Master Thesis: Evaluating PLATO Telescope Efficiency**, KU Leuven, Belgium , Sept 2023 – Feb 2025
   * Performed in-depth analysis of 1200 challenging light curve datasets with high noise levels, identifying the key conditions that influence planet detection efficiency
   * Presented impactful insights on 'why' and ‘how much’ detection rates varied, leading to recommendations for parameter limits with potential of up to 95% detection efficiency.
-* **Senior Science Communicator & HR Manager**, Stargazing Mumbai, India | Nov 2020 – Aug 2022
-* **Leadership Coach**, Indian School of Leadership, India | May 2022 – Aug 2022
-* **Bachelor Thesis: Dark Matter Analysis Using Rotation Curve**, St. Xavier’s College, India | Nov 2021 – Apr 2022
+* **Senior Science Communicator & HR Manager**, Stargazing Mumbai, India , Nov 2020 – Aug 2022
+* **Leadership Coach**, Indian School of Leadership, India , May 2022 – Aug 2022
+* **Bachelor Thesis: Dark Matter Analysis Using Rotation Curve**, St. Xavier’s College, India , Nov 2021 – Apr 2022
   * Queried and cleaned over 300,000 data points from the GAIA DR2 database using SQL to test hypotheses regarding the distribution of dark matter.
 
 
