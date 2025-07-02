@@ -93,7 +93,7 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 * **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium | Cum Laude (68%)| Sept 2022 –  Feb 2025
 * **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India | CGPA: 8.29 | Jun 2019 – May 2022 
 * **Relevant Coursework:** Data Analysis in Astrophysics, Project Management, Innovative Entrepreneurship, Computational Physics, Digital Image Processing, Discrete Mathematics, Advanced Calculus.
-* **Certifications:** Google Data Analytics Professional Certificate [(Credential)](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0)
+* **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0), [Google Business Intelligence Professional Certificiate](https://coursera.org/share/cb358ed95f92399c588925a53acc7428)
 
 
 ## Experience
