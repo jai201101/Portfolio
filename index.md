@@ -11,6 +11,7 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
   - [Social Media Interactive Dashboard](#social-media-interactive-dashboard)
   - [Cyclistic Case Study](#cyclistic-case-study)
   - [Analysis and Evolution of a Binary System](#analysis-and-evolution-of-a-binary-system-with-phoebe-and-mesa)
+  - [Minnesota Traffic Volume Interactive Dashboard](#minnesota-traffic-volume-interactive-dashboard)
   - [1D Riemann Solver for Euler Equations](#1d-riemann-solver-for-euler-equations)
 - [Resume](#resume)
   - [Education](#education)
@@ -41,10 +42,10 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
       * Clicks, views, likes, shares and comments at a glance
       * Hashtag performance breakdown
       * Fully filterable by month, region and platform
-   * * **preview:**![preview](./images/social_media_preview.png) 
+   * **preview:**![preview](./images/social_media_preview.png) 
    * **Fields:** Business Intelligence, Data Visualization, interactive dashboards
    * **Skills Applied:** MS Power BI, Power Query, Drill down visuals
-   * **Main Pbix dashboard:** [Social_Media_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+   * **Pbix dashboard link:** [Social_Media_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly Challenge via LinkedIn
 
 
@@ -53,7 +54,7 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **preview:** ![preview](./images/cyclistic_preview.png)
    * **Fields**: Data Cleaning and Processing, Data Analytics, Data Visualization
    * **Skills Applied:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
-   * **Main Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
+   * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose** : Google Data Analytics Professional Certificate Capstone case study
 
 
@@ -62,17 +63,28 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
    * **preview:**: ![preview](./images/Binary_preview.png)
    * **Fields**: Data Science, Statistical Modelling, Time Series Analysis 
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
-   * **Main Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
+   * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose** : Binary stars Coursework project
-
+## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
+   * **Description:**  This interactive Dashboard analyzes hourly traffic volume of Minnesota from 2012 to 2018 with  an option to filter the data on a yearly timescale. The stakeholders are equipped with the following insights from the dashboard:
+      * Temperature dependence on Traffic volume 
+      * Months, Days and hours of the week with maximum traffic
+      * Traffic volume in different weather conditions
+      * Traffic volume on different holidays
+   * **preview:**![preview](./images/Minnesota_traffic_preview.png) 
+   * **Fields:** Business Intelligence, Data Visualization, interactive dashboards
+   * **Skills Applied:** Tableau, Drill down visuals
+   * **Tableau dashboard link:** [Minnesota_traffic_dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   * **Purpose** : Google Business Intelligence Certificate project
 
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
    * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **preview:** ![preview](./images/comp_preview.png)
    * **Fields**: Numerical simulations, computational modelling, advanced calculus
    * **Skills Applied:** Python. HD modelling 
-   * **Main Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
+   * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
    * **Purpose** : Computational Mehtods for Astrophysical applications Coursework project
+
 
 
 # Resume
