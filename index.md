@@ -1,18 +1,19 @@
 
 
 # Introduction
-I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in data analytics and data science. My projects span astrophysics research to real-world business dashboards, showcasing skills in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards. It highlights my proficiency in data cleaning, analysis, optimization, and visualization using tools such as Python, SQL, Power BI, Excel, and Fortran.
+I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics with hands-on experience in data analytics and data science. My projects span astrophysics research to real-world business dashboards, showcasing skills in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards. It highlights my proficiency in data cleaning, analysis, optimization, and visualization using tools such as Python, SQL, Power BI, Excel, and Fortran.
 
 
 
 ## 📑 Table of Contents
 - [Portfolio](#portfolio)
   - [Exploring PLATO’s Efficiency in Detecting Transiting Exoplanets](#exploring-platos-eﬀiciency-in-detecting-transiting-exoplanets-around-intermediate-mass-stars)
-  - [Social Media Interactive Dashboard](#social-media-interactive-dashboard)
+  - [IT Support Interactive Dashboard](#it-support-interactive-dashboard)
   - [Cyclistic Case Study](#cyclistic-case-study)
   - [Analysis and Evolution of a Binary System](#analysis-and-evolution-of-a-binary-system-with-phoebe-and-mesa)
   - [Minnesota Traffic Volume Interactive Dashboard](#minnesota-traffic-volume-interactive-dashboard)
   - [1D Riemann Solver for Euler Equations](#1d-riemann-solver-for-euler-equations)
+  - [Social Media Interactive Dashboard](#social-media-interactive-dashboard)
 - [Resume](#resume)
   - [Education](#education)
   - [Experience](#experience)
@@ -25,17 +26,75 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
 
  
 # Portfolio
+**Note:** Click on the Project titles to navigate the project folder
 
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
-   * **preview:** ![preview](./images/Thesis_result_preview.png)
-   * **Fields**: Computational methods, Data Science, Data Analysis, Data Visualization, Data collection, Data cleaning, Advanced statistics
-   * **Skills Applied:** Python (Pandas, numpy, Matplotlib, OS, TransitLeastSquares, Batman, scipy), Platosim, MESA, Bash script
+   * **Preview:** ![preview](./images/Thesis_result_preview.png)
+   * **Skills**: Computational Methods, Data Science, Data Analysis, Data Visualization, Data Collection, Data Cleaning, Advanced Statistics
+   * **Tools** Python (Pandas, Numpy, Matplotlib, OS, TransitLeastSquares, Batman, Scipy), Platosim, MESA, Bash Script, Latex
    * **Thesis Manuscript:** [Jai_Mirchandani_Masters_Thesis](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
-   * **Purpose** : Master Thesis project
+   * **Purpose** : Master Thesis Project
 
 
-## [Social Media interactive dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
+## [IT Support Interactive Dashboard](./IT_support_dashboard)
+   * **Description:**  This IT Support Analysis dashboard is designed to monitor and analyze support ticket activity, identify recurring issues, and improve SLA (Service Level Agreement) compliance. The dashboard consists of three interactive pages, each offering a distinct analytical perspective:
+    * Page 1: Resolution Ratio
+      * Displays a custom metric: Resolution Ratio = Resolved Tickets / New Tickets
+      * Visualized across time (monthly and daily), countries, priority levels, and ticket types
+      * A ratio below 1.0 (highlighted in red) indicates a backlog, signaling that more tickets are being created than resolved for the selected parameters
+    * Page 2: Average Resolution duration and general trends
+      * Presents the average time taken to resolve tickets under various filters
+      * Red color in the Avg. Resolution Days metric denotes SLA non-compliance
+      * Additional trends include: Monthly and daily ticket volume changes, Distribution of tickets by queue and priority, Ticket types and geographic breakdowns
+    * Page 3: Text Analysis
+      * Focuses on the most frequently used tags across different tag categories (Primary, Secondary, Resolution, Category)
+      * Helps identify which tags are associated with SLA violations and backlogs
+   * **preview:**![preview](./images/IT_preview.png) 
+   * **Skills:** Business Intelligence, Data Visualization, interactive dashboards, Data Modelling
+   * **Tools:** MS Power BI, Power Query, DAX, ZoomCharts Drill Down Visuals
+   * **Pbix dashboard link:** [IT_Support_Dashboard](./IT_support_dashboard/IT_SUPPORT.pbix)
+   * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
+
+
+## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
+   * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
+   * **preview:** ![preview](./images/cyclistic_preview.png)
+   * **Skills:** Data Cleaning and Processing, Data Analytics, Data Visualization
+   * **Tools:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
+   * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
+   * **Purpose:**  Google Data Analytics Professional Certificate Case Study
+
+
+## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
+   * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
+   * **Preview:** ![preview](./images/Binary_preview.png)
+   * **Fields:** Data Science, Statistical Modelling, Time Series Analysis 
+   * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
+   * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
+   * **Purpose:**  Binary stars Coursework project
+## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
+   * **Description:**  This interactive Dashboard analyzes hourly traffic volume of Minnesota from 2012 to 2018 with  an option to filter the data on a yearly timescale. The stakeholders are equipped with the following insights from the dashboard:
+      * Temperature dependence on Traffic volume 
+      * Months, Days and hours of the week with maximum traffic
+      * Traffic volume in different weather conditions
+      * Traffic volume on different holidays
+   * **Preview:**![preview](./images/Minnesota_traffic_preview.png) 
+   * **Skills:** Business Intelligence, Data Visualization, interactive dashboards
+   * **Tools:** Tableau
+   * **Tableau dashboard link:** [Minnesota_Traffic_Dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   * **Purpose** : Google Business Intelligence Certificate Project
+
+## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
+   * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
+   * **Preview:** ![preview](./images/comp_preview.png)
+   * **Fields**: Numerical Simulations, Computational Modelling, Advanced Calculus
+   * **Skills Applied:** Python. HD Modelling 
+   * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
+   * **Purpose:**  Computational Mehtods for Astrophysical Applications Coursework Project
+
+
+## [Social Media Interactive Dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
    * **Description:**  This interactive report analyzes 5,600 posts across platforms like LinkedIn, TikTok, Facebook, Instagram and YouTube, providing a 360° view of:
       * Engagement trends by time, day and content type
       * Top-performing post types by region, content category and platform
@@ -43,50 +102,10 @@ I'm Jai Mirchandani, a recent Astronomy graduate with hands-on experience in dat
       * Hashtag performance breakdown
       * Fully filterable by month, region and platform
    * **preview:**![preview](./images/social_media_preview.png) 
-   * **Fields:** Business Intelligence, Data Visualization, interactive dashboards
-   * **Skills Applied:** MS Power BI, Power Query, Drill down visuals
-   * **Pbix dashboard link:** [Social_Media_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
-   * **Purpose** : Onyx Data montly Challenge via LinkedIn
-
-
-## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
-   * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
-   * **preview:** ![preview](./images/cyclistic_preview.png)
-   * **Fields**: Data Cleaning and Processing, Data Analytics, Data Visualization
-   * **Skills Applied:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
-   * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
-   * **Purpose** : Google Data Analytics Professional Certificate Capstone case study
-
-
-## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
-   * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
-   * **preview:**: ![preview](./images/Binary_preview.png)
-   * **Fields**: Data Science, Statistical Modelling, Time Series Analysis 
-   * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
-   * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
-   * **Purpose** : Binary stars Coursework project
-## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
-   * **Description:**  This interactive Dashboard analyzes hourly traffic volume of Minnesota from 2012 to 2018 with  an option to filter the data on a yearly timescale. The stakeholders are equipped with the following insights from the dashboard:
-      * Temperature dependence on Traffic volume 
-      * Months, Days and hours of the week with maximum traffic
-      * Traffic volume in different weather conditions
-      * Traffic volume on different holidays
-   * **preview:**![preview](./images/Minnesota_traffic_preview.png) 
-   * **Fields:** Business Intelligence, Data Visualization, interactive dashboards
-   * **Skills Applied:** Tableau, Drill down visuals
-   * **Tableau dashboard link:** [Minnesota_traffic_dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-   * **Purpose** : Google Business Intelligence Certificate project
-
-## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
-   * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
-   * **preview:** ![preview](./images/comp_preview.png)
-   * **Fields**: Numerical simulations, computational modelling, advanced calculus
-   * **Skills Applied:** Python. HD modelling 
-   * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
-   * **Purpose** : Computational Mehtods for Astrophysical applications Coursework project
-
-
-
+   * **Skills:** Business Intelligence, Data Visualization, interactive dashboards
+   * **Tools:** MS Power BI, Power Query, Drill down visuals
+   * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+   * **Purpose** : Onyx Data montly challenge via LinkedIn
 # Resume
 
 ## Education
