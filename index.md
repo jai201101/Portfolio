@@ -106,6 +106,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools:** MS Power BI, Power Query, Drill down visuals
    * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly challenge via LinkedIn
+
 # Resume
 
 ## Education
