@@ -53,7 +53,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **preview:**![preview](./images/IT_preview.png) 
    * **Skills:** Business Intelligence, Data Visualization, interactive dashboards, Data Modelling
    * **Tools:** MS Power BI, Power Query, DAX, ZoomCharts Drill Down Visuals
-   * **Pbix dashboard link:** [IT_Support_Dashboard](./IT_support_dashboard/IT_SUPPORT.pbix)
+   * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
 
 
