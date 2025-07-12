@@ -2,9 +2,8 @@
 
 # Introduction
 I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics with hands-on experience in data analytics and data science. My projects span astrophysics research to real-world business dashboards, showcasing skills in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards. It highlights my proficiency in data cleaning, analysis, optimization, and visualization using tools such as Python, SQL, Power BI, Excel, and Fortran.
-
-
-
+ 
+<br> <br> 
 ## 📑 Table of Contents
 - [Portfolio](#portfolio)
   - [Exploring PLATO’s Efficiency in Detecting Transiting Exoplanets](#exploring-platos-eﬀiciency-in-detecting-transiting-exoplanets-around-intermediate-mass-stars)
@@ -22,11 +21,12 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
   - [Languages](#languages)
 - [Contact](#lets-talk)
 
-
+<br> <br> 
 
  
 # Portfolio
 **Note:** Click on the Project titles to navigate the project folder
+<br> 
 
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
@@ -36,7 +36,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Thesis Manuscript:** [Jai_Mirchandani_Masters_Thesis](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
    * **Purpose** : Master Thesis Project
 
-
+<br> <br> 
 ## [IT Support Interactive Dashboard](./IT_support_dashboard)
    * **Description:**  This IT Support Analysis dashboard is designed to monitor and analyze support ticket activity, identify recurring issues, and improve SLA (Service Level Agreement) compliance. The dashboard consists of three interactive pages, each offering a distinct analytical perspective:
       * Page 1: Resolution Ratio
@@ -56,7 +56,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
 
-
+<br> <br> 
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
    * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
    * **preview:** ![preview](./images/cyclistic_preview.png)
@@ -65,7 +65,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose:**  Google Data Analytics Professional Certificate Case Study
 
-
+<br> <br> 
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
    * **Preview:** ![preview](./images/Binary_preview.png)
@@ -84,7 +84,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools:** Tableau
    * **Tableau dashboard link:** [Minnesota_Traffic_Dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    * **Purpose** : Google Business Intelligence Certificate Project
-
+<br> <br> 
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
    * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **Preview:** ![preview](./images/comp_preview.png)
@@ -93,7 +93,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
    * **Purpose:**  Computational Mehtods for Astrophysical Applications Coursework Project
 
-
+<br> <br> 
 ## [Social Media Interactive Dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
    * **Description:**  This interactive report analyzes 5,600 posts across platforms like LinkedIn, TikTok, Facebook, Instagram and YouTube, providing a 360° view of:
       * Engagement trends by time, day and content type
@@ -106,15 +106,15 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools:** MS Power BI, Power Query, Drill down visuals
    * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly challenge via LinkedIn
-
+<br> <br> 
 # Resume
-
+<br> 
 ## Education
 * **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium , **Cum Laude** (68%), Sept 2022 –  Feb 2025
 * **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India , **CGPA:** 8.29 , Jun 2019 – May 2022 
 * **Relevant Coursework:** Data Analysis in Astrophysics, Project Management, Innovative Entrepreneurship, Computational Physics, Digital Image Processing, Discrete Mathematics, Advanced Calculus.
 * **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0), [Google Business Intelligence Professional Certificiate](https://coursera.org/share/cb358ed95f92399c588925a53acc7428)
-
+<br> <br> 
 
 ## Experience
 * **Master Thesis: Evaluating PLATO Telescope Efficiency**, KU Leuven, Belgium , Sept 2023 – Feb 2025
@@ -125,28 +125,28 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
 * **Bachelor Thesis: Dark Matter Analysis Using Rotation Curve**, St. Xavier’s College, India , Nov 2021 – Apr 2022
   * Queried and cleaned over 300,000 data points from the GAIA DR2 database using SQL to test hypotheses regarding the distribution of dark matter.
 
-
+<br> <br> 
 ## Skills
 *	**Programming Languages:** Python (NumPy, Pandas, Matplotlib, TensorFlow, PyMC), R, Fortran
 *	**Data Analysis and Visualization Tools:** SQL (MySQL, BigQuery), Excel, Power BI (DAX), Tableau
 * **Data Science Techniques:** Machine Learning, Statistical Modeling, Time Series Analysis, Forecasting Techniques
 *	**Other Tools:** Git (Version Control), MS Project (Project Management), LaTeX (Documentation), Linux (OS)
 *	**Soft Skills:** Leadership, Analytical Thinking, Collaboration, Problem Solving, Project Management
-
+<br> <br> 
 
 ## Extra Projects (Not in Portfolio)
 * **Atomic Oxygen as a Space Weather Risk:** Built an empirical model in Python that successfully predicted oxygen fluence, enabling proactive risk estimation and informing mitigation strategies for future missions. 
 * **Light Curve Analysis of Variable Stars:** Conducted time series analysis of 20 stars using TESS data and Python with a strong focus on pattern recognition and visualization
 
-
+<br> <br> 
 ## Languages
 * **English** (Proficient), **Hindi** (Native), **Marathi** (Proficient), **Sindhi** (Intermediate)
   
-
+<br> <br> 
 ## Hobbies and Interests
 *  Stargazing, Cricket, Taekwondo, Trekking, Financial Markets
 
-
+<br> <br> 
 # Let's Talk:
 * Mobile: +91 9552082387
 * Mail: [jaimirchandani20@gmail.com](jaimirchandani20@gmail.com)
