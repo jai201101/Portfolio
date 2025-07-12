@@ -73,6 +73,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose:**  Binary stars Coursework project
+<br> <br> 
 ## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
    * **Description:**  This interactive Dashboard analyzes hourly traffic volume of Minnesota from 2012 to 2018 with  an option to filter the data on a yearly timescale. The stakeholders are equipped with the following insights from the dashboard:
       * Temperature dependence on Traffic volume 
@@ -84,6 +85,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools:** Tableau
    * **Tableau dashboard link:** [Minnesota_Traffic_Dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    * **Purpose** : Google Business Intelligence Certificate Project
+
 <br> <br> 
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
    * **Description:** In this project, we designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
