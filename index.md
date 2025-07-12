@@ -109,8 +109,10 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly challenge via LinkedIn
 <br> <br> 
+
 # Resume
-<br> 
+<br>
+
 ## Education
 * **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium , **Cum Laude** (68%), Sept 2022 –  Feb 2025
 * **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India , **CGPA:** 8.29 , Jun 2019 – May 2022 
