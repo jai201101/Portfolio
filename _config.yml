@@ -1,5 +1,5 @@
 theme: jekyll-theme-Hacker
 title: "Jai's Data Portfolio"
 description: " Author: Jai Mirchandani"
-github:
-    is_project_page: false
+sass:
+  style: compressed
