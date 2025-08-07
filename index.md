@@ -6,6 +6,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
 <br> <br> 
 ## 📑 Table of Contents
 - [Portfolio](#portfolio)
+  - [Prediction of Water Potability through machine learning models](#prediction-of-water-potability-through-machine-learning-models)
   - [Exploring PLATO’s Efficiency in Detecting Transiting Exoplanets](#exploring-platos-eﬀiciency-in-detecting-transiting-exoplanets-around-intermediate-mass-stars)
   - [IT Support Interactive Dashboard](#it-support-interactive-dashboard)
   - [Cyclistic Case Study](#cyclistic-case-study)
@@ -27,7 +28,13 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
 # Portfolio
 **Note:** Click on the Project titles to navigate the project folder
 ---
-<br> <br>
+## [Prediction of Water Potability through machine learning models](./Water_Potability_ml_Model)
+---
+   * **Description:**  This project leverages supervised machine learning methods to classify the potability of water as safe(1) and unsafe(0) based on different observations of ph, solids, chloramines, Sulfate, conductivity,etc. The aim of the project is to create and compare the precision of different ml models to predict the safeness of the water based on the given features of the data. A precision of 89 percent is achieved through stacking of different classifications models.
+   * **Skills**: Supervided Machine Learning, Hyper-paramter tuning, Logistic Regression SVM, KNN, Random Forest, Boosting and Stacking. 
+   * **Tools** Python (Pandas, Scikit-learn)
+   * **Python Notebook** [Water_potability.ipynb](./Water_Potability_ml_Model/water_pota.ipynb)
+   * **Purpose** : 'IBM Supervised Machine Learning: Classification' course project
 
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
 ---
