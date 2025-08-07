@@ -9,6 +9,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
   - [Prediction of Water Potability through machine learning models](#prediction-of-water-potability-through-machine-learning-models)
   - [Exploring PLATO’s Efficiency in Detecting Transiting Exoplanets](#exploring-platos-eﬀiciency-in-detecting-transiting-exoplanets-around-intermediate-mass-stars)
   - [IT Support Interactive Dashboard](#it-support-interactive-dashboard)
+  - [Exploratory Data Analysis of over a million reviews of different beers](#exploratory-data-analysis-of-over-a-million-reviews-of-different-beers)
   - [Cyclistic Case Study](#cyclistic-case-study)
   - [Analysis and Evolution of a Binary System](#analysis-and-evolution-of-a-binary-system-with-phoebe-and-mesa)
   - [Minnesota Traffic Volume Interactive Dashboard](#minnesota-traffic-volume-interactive-dashboard)
@@ -35,6 +36,8 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools** Python (Pandas, Scikit-learn)
    * **Python Notebook** [Water_potability.ipynb](./Water_Potability_ml_Model/water_pota.ipynb)
    * **Purpose** : 'IBM Supervised Machine Learning: Classification' course project
+
+---
 
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
 ---
@@ -66,6 +69,18 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
 ---
+## [Exploratory Data Analysis of over a million reviews of different beers](./Beer_reviews_EDA)
+---
+   * **Description:**  This project explores the global beer market using a comprehensive dataset of 1.5 million reviews from Beer Advocate. We analyze ratings for aroma, taste, appearance, and palate to uncover what defines the world's top-rated beers. <br>
+Goals of the project:
+       * Identify popular and highest rated beers and beer styles.
+       * Spotlight top breweries.
+       * Understand what factors influence high ratings.
+   * **Skills**: Data Cleaning, Data manipulation, Exploratory Data Analysis, Data Visualziation
+   * **Tools** Python (Pandas, Numpy,  Matplotlib, Seaborn)
+   * **Python Notebook** [Water_potability.ipynb](./Beer_reviews_EDA/beer_reviews_EDA.ipynb)
+   * **Purpose** : 'IBM Exploaratory Data Analysis' course project
+
 <br> <br> 
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
 ---
