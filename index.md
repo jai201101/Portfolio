@@ -29,12 +29,12 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
 # Portfolio
 **Note:** Click on the Project titles to navigate the project folder
 ---
-## [Prediction of Water Potability through machine learning models](./Water_Potability_ml_Model)
+## [Prediction of Water Potability through machine learning models](https://github.com/jai201101/Portfolio/blob/main/Water_Potability_ml_Model)
 ---
    * **Description:**  This project leverages supervised machine learning methods to classify the potability of water as safe(1) and unsafe(0) based on different observations of ph, solids, chloramines, Sulfate, conductivity,etc. The aim of the project is to create and compare the precision of different ml models to predict the safeness of the water based on the given features of the data. A precision of 89 percent is achieved through stacking of different classifications models.
    * **Skills**: Supervided Machine Learning, Hyper-paramter tuning, Logistic Regression SVM, KNN, Random Forest, Boosting and Stacking. 
    * **Tools** Python (Pandas, Scikit-learn)
-   * **Python Notebook** [Water_potability.ipynb](./Water_Potability_ml_Model/water_pota.ipynb)
+   * **Python Notebook** [Water_potability.ipynb](https://github.com/jai201101/Portfolio/blob/main/Water_Potability_ml_Model/water_pota.ipynb)
    * **Purpose** : 'IBM Supervised Machine Learning: Classification' course project
 
 ---
@@ -49,7 +49,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Purpose** : Master Thesis Project
 ---
 <br> <br> 
-## [IT Support Interactive Dashboard](./IT_support_dashboard)
+## [IT Support Interactive Dashboard](https://github.com/jai201101/Portfolio/blob/main/IT_support_dashboard)
 ---
    * **Description:**  The IT Support Dashboard is designed to monitor and analyze support ticket activity, identify recurring issues, and improve SLA (Service Level Agreement) compliance. The dashboard consists of three interactive pages, each offering a distinct analytical perspective:
       * Page 1: Resolution Ratio
@@ -69,7 +69,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
 ---
-## [Exploratory Data Analysis of over a million reviews of different beers](./Beer_reviews_EDA)
+## [Exploratory Data Analysis of over a million reviews of different beers](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA)
 ---
    * **Description:**  This project explores the global beer market using a comprehensive dataset of 1.5 million reviews from Beer Advocate. We analyze ratings for aroma, taste, appearance, and palate to uncover what defines the world's top-rated beers. <br>
 Goals of the project:
@@ -78,7 +78,7 @@ Goals of the project:
        * Understand what factors influence high ratings.
    * **Skills**: Data Cleaning, Data manipulation, Exploratory Data Analysis, Data Visualziation
    * **Tools** Python (Pandas, Numpy,  Matplotlib, Seaborn)
-   * **Python Notebook** [Beer_reviews_EDA.ipynb](./Beer_reviews_EDA/beer_reviews_EDA.ipynb)
+   * **Python Notebook** [Beer_reviews_EDA.ipynb](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA/beer_reviews_EDA.ipynb)
    * **Purpose** : 'IBM Exploaratory Data Analysis' course project
 
 <br> <br> 
