@@ -78,7 +78,7 @@ Goals of the project:
        * Understand what factors influence high ratings.
    * **Skills**: Data Cleaning, Data manipulation, Exploratory Data Analysis, Data Visualziation
    * **Tools** Python (Pandas, Numpy,  Matplotlib, Seaborn)
-   * **Python Notebook** [Water_potability.ipynb](./Beer_reviews_EDA/beer_reviews_EDA.ipynb)
+   * **Python Notebook** [Beer_reviews_EDA.ipynb](./Beer_reviews_EDA/beer_reviews_EDA.ipynb)
    * **Purpose** : 'IBM Exploaratory Data Analysis' course project
 
 <br> <br> 
