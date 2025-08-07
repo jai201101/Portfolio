@@ -48,7 +48,9 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Thesis Manuscript:** [Jai_Mirchandani_Masters_Thesis](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
    * **Purpose** : Master Thesis Project
 ---
-<br> <br> 
+
+
+
 ## [IT Support Interactive Dashboard](https://github.com/jai201101/Portfolio/blob/main/IT_support_dashboard)
 ---
    * **Description:**  The IT Support Dashboard is designed to monitor and analyze support ticket activity, identify recurring issues, and improve SLA (Service Level Agreement) compliance. The dashboard consists of three interactive pages, each offering a distinct analytical perspective:
@@ -69,6 +71,8 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
 ---
+
+
 ## [Exploratory Data Analysis of over a million reviews of different beers](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA)
 ---
    * **Description:**  This project explores the global beer market using a comprehensive dataset of 1.5 million reviews from Beer Advocate. We analyze ratings for aroma, taste, appearance, and palate to uncover what defines the world's top-rated beers. <br>
@@ -80,8 +84,10 @@ Goals of the project:
    * **Tools** Python (Pandas, Numpy,  Matplotlib, Seaborn)
    * **Python Notebook** [Beer_reviews_EDA.ipynb](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA/beer_reviews_EDA.ipynb)
    * **Purpose** : 'IBM Exploaratory Data Analysis' course project
+---
 
-<br> <br> 
+
+
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
 ---
    * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
@@ -91,7 +97,10 @@ Goals of the project:
    * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose:**  Google Data Analytics Professional Certificate Case Study
 ---
-<br> <br> 
+
+
+
+
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
 ---
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
@@ -100,8 +109,9 @@ Goals of the project:
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose:**  Binary stars Coursework project
-<br> <br>
 ---
+
+
 
 ## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
 ---
@@ -116,7 +126,8 @@ Goals of the project:
    * **Tableau dashboard link:** [Minnesota_Traffic_Dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    * **Purpose** : Google Business Intelligence Certificate Project
 ---
-<br> <br> 
+
+
 
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
 ---
@@ -127,7 +138,9 @@ Goals of the project:
    * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
    * **Purpose:**  Computational Mehtods for Astrophysical Applications Coursework Project
 ---
-<br> <br> 
+
+
+
 ## [Social Media Interactive Dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
 ---
    * **Description:**  This interactive report analyzes 5,600 posts across platforms like LinkedIn, TikTok, Facebook, Instagram and YouTube, providing a 360° view of:
@@ -141,8 +154,11 @@ Goals of the project:
    * **Tools:** MS Power BI, Power Query, Drill down visuals
    * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly challenge via LinkedIn
-<br> <br> 
 ---
+
+
+
+
 # Resume
 <br>
 
