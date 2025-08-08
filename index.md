@@ -36,9 +36,7 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools** Python (Pandas, Scikit-learn)
    * **Python Notebook** [Water_potability.ipynb](https://github.com/jai201101/Portfolio/blob/main/Water_Potability_ml_Model/water_pota.ipynb)
    * **Purpose** : 'IBM Supervised Machine Learning: Classification' course project
-
 ---
-
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
 ---
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
@@ -48,9 +46,6 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Thesis Manuscript:** [Jai_Mirchandani_Masters_Thesis](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
    * **Purpose** : Master Thesis Project
 ---
-
-
-
 ## [IT Support Interactive Dashboard](https://github.com/jai201101/Portfolio/blob/main/IT_support_dashboard)
 ---
    * **Description:**  The IT Support Dashboard is designed to monitor and analyze support ticket activity, identify recurring issues, and improve SLA (Service Level Agreement) compliance. The dashboard consists of three interactive pages, each offering a distinct analytical perspective:
@@ -71,8 +66,6 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
 ---
-
-
 ## [Exploratory Data Analysis of over a million reviews of different beers](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA)
 ---
    * **Description:**  This project explores the global beer market using a comprehensive dataset of 1.5 million reviews from Beer Advocate. We analyze ratings for aroma, taste, appearance, and palate to uncover what defines the world's top-rated beers. <br>
@@ -85,9 +78,6 @@ Goals of the project:
    * **Python Notebook** [Beer_reviews_EDA.ipynb](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA/beer_reviews_EDA.ipynb)
    * **Purpose** : 'IBM Exploaratory Data Analysis' course project
 ---
-
-
-
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
 ---
    * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
@@ -97,10 +87,6 @@ Goals of the project:
    * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose:**  Google Data Analytics Professional Certificate Case Study
 ---
-
-
-
-
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
 ---
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
@@ -110,9 +96,6 @@ Goals of the project:
    * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose:**  Binary stars Coursework project
 ---
-
-
-
 ## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
 ---
    * **Description:**  This interactive dashboard analyzes hourly traffic volume of Minnesota from 2012 to 2018 with  an option to filter the data on a yearly timescale. The stakeholders are equipped with the following insights from the dashboard:
@@ -126,9 +109,6 @@ Goals of the project:
    * **Tableau dashboard link:** [Minnesota_Traffic_Dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    * **Purpose** : Google Business Intelligence Certificate Project
 ---
-
-
-
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
 ---
    * **Description:** In this project, I have designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
@@ -138,9 +118,6 @@ Goals of the project:
    * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
    * **Purpose:**  Computational Mehtods for Astrophysical Applications Coursework Project
 ---
-
-
-
 ## [Social Media Interactive Dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
 ---
    * **Description:**  This interactive report analyzes 5,600 posts across platforms like LinkedIn, TikTok, Facebook, Instagram and YouTube, providing a 360° view of:
@@ -155,9 +132,6 @@ Goals of the project:
    * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly challenge via LinkedIn
 ---
-
-
-
 
 # Resume
 <br>
