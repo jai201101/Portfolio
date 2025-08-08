@@ -40,11 +40,13 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools** Python (Pandas, Scikit-learn)
    * **Python Notebook** [Water_potability.ipynb](https://github.com/jai201101/Portfolio/blob/main/Water_Potability_ml_Model/water_pota.ipynb)
    * **Purpose** : 'IBM Supervised Machine Learning: Classification' course project
+
 ---
 
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
 
 ---
+
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
    * **Preview:** ![preview](./images/Thesis_result_preview.png)
    * **Skills**: Computational Methods, Data Science, Data Analysis, Data Visualization, Data Collection, Data Cleaning, Advanced Statistics
