@@ -28,16 +28,22 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
  
 # Portfolio
 **Note:** Click on the Project titles to navigate the project folder
+
 ---
+
 ## [Prediction of Water Potability through machine learning models](https://github.com/jai201101/Portfolio/blob/main/Water_Potability_ml_Model)
+
 ---
+
    * **Description:**  This project leverages supervised machine learning methods to classify the potability of water as safe(1) and unsafe(0) based on different observations of ph, solids, chloramines, Sulfate, conductivity,etc. The aim of the project is to create and compare the precision of different ml models to predict the safeness of the water based on the given features of the data. A precision of 89 percent is achieved through stacking of different classifications models.
    * **Skills**: Supervided Machine Learning, Hyper-paramter tuning, Logistic Regression SVM, KNN, Random Forest, Boosting and Stacking. 
    * **Tools** Python (Pandas, Scikit-learn)
    * **Python Notebook** [Water_potability.ipynb](https://github.com/jai201101/Portfolio/blob/main/Water_Potability_ml_Model/water_pota.ipynb)
    * **Purpose** : 'IBM Supervised Machine Learning: Classification' course project
 ---
+
 ## [Exploring PLATO’s eﬀiciency in detecting transiting exoplanets around intermediate mass stars](https://github.com/jai201101/Portfolio/blob/main/MasterThesis)
+
 ---
    * **Description:**  This project tests how well European Space Agency's (ESA) PLATO space telescope can detect exoplanets around more massive, and therefore larger stars, where detection of transits is more challenging due to weaker signals. For this purpose, a simulator called PlatoSim, which can generate the expected data of PLATO has been used. This simulator replicates PLATO’s environment by inducing all the noise effects that can affect the quality and strength of the observed signal. This is a year long project with  detailed and advanced data analysis of more than 1200 different datasets each belonging to a different star-planet sytem.
    * **Preview:** ![preview](./images/Thesis_result_preview.png)
@@ -45,8 +51,11 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools** Python (Pandas, Numpy, Matplotlib, OS, TransitLeastSquares, Batman, Scipy), Platosim, MESA, Bash Script, Latex
    * **Thesis Manuscript:** [Jai_Mirchandani_Masters_Thesis](https://github.com/jai201101/Portfolio/blob/main/MasterThesis/Jai_Mirchandani_Master_Thesis.pdf)
    * **Purpose** : Master Thesis Project
+
 ---
+
 ## [IT Support Interactive Dashboard](https://github.com/jai201101/Portfolio/blob/main/IT_support_dashboard)
+
 ---
    * **Description:**  The IT Support Dashboard is designed to monitor and analyze support ticket activity, identify recurring issues, and improve SLA (Service Level Agreement) compliance. The dashboard consists of three interactive pages, each offering a distinct analytical perspective:
       * Page 1: Resolution Ratio
@@ -65,9 +74,13 @@ I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics wit
    * **Tools:** MS Power BI, Power Query, DAX, ZoomCharts Drill Down Visuals
    * **Pbix dashboard link:** [IT_Support_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM5NWRmMDEtZWEwZi00MjJlLWJmY2QtOTgwYjIxNDY2MjVjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : FP20 Data Analytics Challenge via LinkedIn
+
 ---
+
 ## [Exploratory Data Analysis of over a million reviews of different beers](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA)
+
 ---
+
    * **Description:**  This project explores the global beer market using a comprehensive dataset of 1.5 million reviews from Beer Advocate. We analyze ratings for aroma, taste, appearance, and palate to uncover what defines the world's top-rated beers. <br>
 Goals of the project:
        * Identify popular and highest rated beers and beer styles.
@@ -77,27 +90,39 @@ Goals of the project:
    * **Tools** Python (Pandas, Numpy,  Matplotlib, Seaborn)
    * **Python Notebook** [Beer_reviews_EDA.ipynb](https://github.com/jai201101/Portfolio/blob/main/Beer_reviews_EDA/beer_reviews_EDA.ipynb)
    * **Purpose** : 'IBM Exploaratory Data Analysis' course project
+
 ---
+
 ## **[Cyclistic Case Study](https://github.com/jai201101/Portfolio/tree/main/Cyclistic_Case_Study)**
+
 ---
+
    * **Description:** This case study explores Cyclistic bike-sharing data over a 12-month period to uncover trends in behaviors of different user types. The objective is to compare casual vs member riders and provide actionable marketing recommendations to convert casual riders into annual members.
    * **preview:** ![preview](./images/cyclistic_preview.png)
    * **Skills:** Data Cleaning and Processing, Data Analytics, Data Visualization
    * **Tools:** Python (Pandas, Matplotlib, OS), SQL (BigQuery), MS Excel 
    * **Pdf Report:** [Cyclistic_case_study_report.pdf](https://github.com/jai201101/Portfolio/blob/main/Cyclistic_Case_Study/cylistic_case_study_report.pdf)
    * **Purpose:**  Google Data Analytics Professional Certificate Case Study
+
 ---
+
 ## **[Analysis and Evolution of a binary system with PHOEBE AND MESA](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis)**
+
 ---
+
    * **Description:** An analysis of a semi-detached binary star system using a combination of observational data and modeling techniques was carried out in this project. The light curve and radial velocity datasets were employed to determine the system’s fundamental parameters, such as orbital period, eccentricity, and mass ratio. Through the use of sophisticated tools like the Lomb-Scargle periodogram and various estimators in the Phoebe software, we successfully derived values for the masses, radii, temperatures, and other key properties of the binary components.
    * **Preview:** ![preview](./images/Binary_preview.png)
    * **Fields:** Data Science, Statistical Modelling, Time Series Analysis 
    * **Skills Applied:** Python (lmfit, pandas, numpy, astrropy, Phoebe) , MESA, Fortran
    * **Pdf Report:** [Binary_stars_analysis_report](https://github.com/jai201101/Portfolio/blob/main/Binary_star_Data_Analysis/BIN_STAR_GROUP_G_V1.pdf)
    * **Purpose:**  Binary stars Coursework project
+
 ---
+
 ## [Minnesota Traffic volume interactive dashboard](./Minnesota_Traffic_Data)
+
 ---
+
    * **Description:**  This interactive dashboard analyzes hourly traffic volume of Minnesota from 2012 to 2018 with  an option to filter the data on a yearly timescale. The stakeholders are equipped with the following insights from the dashboard:
       * Temperature dependence on Traffic volume 
       * Months, Days and hours of the week with maximum traffic
@@ -108,18 +133,26 @@ Goals of the project:
    * **Tools:** Tableau
    * **Tableau dashboard link:** [Minnesota_Traffic_Dashboard](https://public.tableau.com/views/Minnesota_traffic_dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    * **Purpose** : Google Business Intelligence Certificate Project
+
 ---
+
 ## **[1D Riemann Solver for Euler Equations](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler)**
+
 ---
+
    * **Description:** In this project, I have designed a Riemann solver for the Euler equation focused on the 2 rarefaction case on Python. This projects demonstrates my ability to computationally solve complex mathematical equations and provide insightful solutions.
    * **Preview:** ![preview](./images/comp_preview.png)
    * **Fields**: Numerical Simulations, Computational Modelling, Advanced Calculus
    * **Skills Applied:** Python. HD Modelling 
    * **Pdf Report:** [CMFA2024_Jai_Mirchandani.pdf](https://github.com/jai201101/Portfolio/blob/main/riemann_solver_for_euler/CMFA2024_Jai_Mirchandani.pdf)
    * **Purpose:**  Computational Mehtods for Astrophysical Applications Coursework Project
+
 ---
+
 ## [Social Media Interactive Dashboard](https://github.com/jai201101/Portfolio/tree/main/Social_Media_Power_BI_Dashboard)
+
 ---
+
    * **Description:**  This interactive report analyzes 5,600 posts across platforms like LinkedIn, TikTok, Facebook, Instagram and YouTube, providing a 360° view of:
       * Engagement trends by time, day and content type
       * Top-performing post types by region, content category and platform
@@ -131,6 +164,7 @@ Goals of the project:
    * **Tools:** MS Power BI, Power Query, Drill down visuals
    * **Pbix dashboard link:** [Social_Media_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhOWZiY2QtZTJjOS00MTY5LWJhMzctYmNjOWZkMDRiZmNjIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
    * **Purpose** : Onyx Data montly challenge via LinkedIn
+
 ---
 
 # Resume
