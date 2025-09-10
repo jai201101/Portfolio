@@ -1,7 +1,7 @@
 
 
 # Introduction
-I'm Jai Mirchandani, a recent masters graduate in Astronomy and Astrophysics with hands-on experience in data analytics and data science. My projects span from astrophysics research to real-world business dashboards, demonstarting proficiency in Python, SQL, Power BI, and Excel. My strong quantitative academic background has equipped me with an analytical mindset, structured approach and a strong desire to learn. I'm excited to apply my technical and transferable skills in helping businesses improve their operations and outcomes. This page showcases a collection of my academic and professional projects where I have leveraged data to solve complex problems, build and utilize statistical models, uncover insights, and develop interactive dashboards.
+My name is Jai Mirchandani and I turn raw data into stories that make sense. With a background in Astrophysics and a toolkit spanning Python, ML, and BI dashboards, I design solutions that cut through noise and deliver insights that make people smarter and businesses sharper. From modelling the universe to optimizing real-world systems, I thrive on complexity and make it useful
  
 <br> <br> 
 ## 📑 Table of Contents
