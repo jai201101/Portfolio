@@ -211,6 +211,6 @@ Goals of the project:
 
 <br> <br> 
 # Let's Talk:
-* Mobile: +91 9552082387
+* Mobile: +31 626438914
 * Mail: [jaimirchandani20@gmail.com](mailto:jaimirchandani20@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/jaimirchandani)
