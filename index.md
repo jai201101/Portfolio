@@ -1,7 +1,7 @@
 
 
 # Introduction
-My name is Jai Mirchandani and I turn raw data into stories that make sense. With a background in Astrophysics and a toolkit spanning Python, ML, and BI dashboards, I design solutions that cut through noise and deliver insights that make people smarter and businesses sharper. From modelling the universe to optimizing real-world systems, I thrive on complexity and make it useful
+My name is Jai Mirchandani and I turn raw data into stories that make sense. With a background in Astrophysics and a toolkit spanning Python, ML and BI dashboards, I design solutions that cut through noise and deliver insights that make people smarter and businesses sharper. From modelling the universe to optimizing real-world systems, I thrive on complexity and make it useful.
  
 <br> <br> 
 ## 📑 Table of Contents
@@ -176,7 +176,7 @@ Goals of the project:
 * **Master of Astronomy and Astrophysics**, KU Leuven, Leuven, Belgium , **Cum Laude** (68%), Sept 2022 –  Feb 2025
 * **Bachelor of Science in Physics**, St. Xavier’s College, Mumbai, India , **CGPA:** 8.29 , Jun 2019 – May 2022 
 * **Relevant Coursework:** Data Analysis in Astrophysics, Project Management, Innovative Entrepreneurship, Computational Physics, Digital Image Processing, Discrete Mathematics, Advanced Calculus.
-* **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0), [Google Business Intelligence Professional Certificiate](https://coursera.org/share/cb358ed95f92399c588925a53acc7428)
+* **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/bcfebad5bd3afc0dec5a4f0cdd28d5f0), [Google Business Intelligence Professional Certificiate](https://coursera.org/share/cb358ed95f92399c588925a53acc7428), [IBM Machine Learning Professional certificate]
 <br> <br> 
 
 ## Experience
